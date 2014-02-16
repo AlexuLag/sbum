@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+/home/john/git/sbum/.metadata/.plugins/org.eclipse.jdt.core
+3592540066.index
+1924399989.index
+278134532.index
